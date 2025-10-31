@@ -1,4 +1,5 @@
 # telegram_market_bot.py
+import imghdr2 as imghdr
 import logging
 import os
 import json
@@ -620,3 +621,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
